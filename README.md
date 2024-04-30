@@ -1,6 +1,6 @@
-- 👋 Hi, I’m shankar
+- 👋 Hi, I’m Shankar
 - 💻 Interested in Data Science & Machine Learning.
-- 📖 Currently learning ML, statistics; exploring more than Basics, Competitions & deepen my knowledge.
+- 📖 Currently learning ML, statistics; exploring more than Basics, Kaggle Competitions & deepen my knowledge.
 - 🤝 Collaborate on ML algorithms, Mathematical implementations.
 - 📫 reach me @shankar.88.gt@gmail.com
 
