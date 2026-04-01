@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Shankar
-- 💻 Interested in Data Science & Machine Learning.
-- 📖 Currently learning ML, statistics; exploring more than Basics, Kaggle Competitions & deepen my knowledge.
-- 🤝 Collaborate on ML algorithms, Mathematical implementations.
+- 💻 Passitionate about Data Science & Machine Learning.
+- 📖 This github documents my experimentation with Classic ML, Deep Learning & Gen AI where I am exploring more than Basics.
+- 🤝 Participating & collobarate on Kaggle to deepen my knowledge.
 - 📫 reach me @shankar.88.gt@gmail.com
 
 <!---
-shankar88gt/shankar88gt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AAAMLP -  Best Practices on Classic ML
+XGboost - Some best practicites with XGBoost
+NLP -  my learning with Deep NN, CNN, RNN & Transformers from Scratch
+Hugging Face - Fine Tuning on Classic NLP tasks with Transformers from Hugging face library
+LLM -  Build GPT model from Scratch
 --->
